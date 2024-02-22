@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="4" total="5" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-02-21T19:26:23 PST" name="Default suite" finished-at="2024-02-21T19:27:50 PST" duration-ms="86973">
+    <groups>
+    </groups>
+    <test started-at="2024-02-21T19:26:23 PST" name="Default test" finished-at="2024-02-21T19:27:50 PST" duration-ms="86973">
+      <class name="SalesforceTestModules.SFLoginTCs">
+        <test-method is-config="true" signature="setUpBeforeMethod(java.lang.String,org.testng.ITestResult)[pri:0, instance:SalesforceTestModules.SFLoginTCs@54a67a45]" started-at="2024-02-21T19:26:24 PST" name="setUpBeforeMethod" finished-at="2024-02-21T19:26:35 PST" duration-ms="11075" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[[TestResult name={null} status=CREATED method=SFLoginTCs.sfLoginTC3()[pri:0, instance:SalesforceTestModules.SFLoginTCs@54a67a45] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpBeforeMethod -->
+        <test-method signature="sfLoginTC3()[pri:0, instance:SalesforceTestModules.SFLoginTCs@54a67a45]" started-at="2024-02-21T19:26:35 PST" name="sfLoginTC3" finished-at="2024-02-21T19:27:47 PST" duration-ms="72091" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sfLoginTC3 -->
+        <test-method is-config="true" signature="tearDownAfterTestMethod()[pri:0, instance:SalesforceTestModules.SFLoginTCs@54a67a45]" started-at="2024-02-21T19:27:47 PST" name="tearDownAfterTestMethod" finished-at="2024-02-21T19:27:50 PST" duration-ms="3013" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownAfterTestMethod -->
+      </class> <!-- SalesforceTestModules.SFLoginTCs -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
